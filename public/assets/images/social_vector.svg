@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 533.2 436.41">
+  <defs>
+    <clipPath id="a" transform="translate(54 54)">
+      <circle cx="212.01" cy="180.75" r="42.05" fill="none"/>
+    </clipPath>
+    <clipPath id="b" transform="translate(54 54)">
+      <circle cx="360.37" cy="251.69" r="28.35" fill="none"/>
+    </clipPath>
+    <clipPath id="c" transform="translate(54 54)">
+      <circle cx="373.56" cy="143.68" r="28.35" fill="none"/>
+    </clipPath>
+    <clipPath id="d" transform="translate(54 54)">
+      <circle cx="61.8" cy="248.55" r="28.35" fill="none"/>
+    </clipPath>
+    <clipPath id="e" transform="translate(54 54)">
+      <circle cx="41.83" cy="142.25" r="28.35" fill="none"/>
+    </clipPath>
+    <clipPath id="f" transform="translate(54 54)">
+      <circle cx="180.23" cy="34.53" r="28.35" fill="none"/>
+    </clipPath>
+    <clipPath id="g" transform="translate(54 54)">
+      <circle cx="340.74" cy="81.61" r="19.98" fill="none"/>
+    </clipPath>
+    <clipPath id="h" transform="translate(54 54)">
+      <circle cx="255.85" cy="33.1" r="23.54" fill="none"/>
+    </clipPath>
+    <clipPath id="i" transform="translate(54 54)">
+      <circle cx="91.05" cy="88.75" r="22.12" fill="none"/>
+    </clipPath>
+    <clipPath id="j" transform="translate(54 54)">
+      <circle cx="286.37" cy="125.69" r="28.35" fill="none"/>
+    </clipPath>
+    <clipPath id="k" transform="translate(54 54)">
+      <circle cx="94.76" cy="189.06" r="19.26" fill="none"/>
+    </clipPath>
+    <clipPath id="l" transform="translate(54 54)">
+      <circle cx="127.43" cy="139.4" r="23.54" fill="none"/>
+    </clipPath>
+  </defs>
+  <title>social4</title>
+  <g>
+    <rect x="54" y="54" width="425.2" height="328.41" fill="#b7ba9b"/>
+    <line x1="54" x2="54" y2="36" fill="none" stroke="#000" stroke-width="0.3"/>
+    <line y1="54" x2="36" y2="54" fill="none" stroke="#000" stroke-width="0.3"/>
+    <line y1="382.41" x2="36" y2="382.41" fill="none" stroke="#000" stroke-width="0.3"/>
+    <line x1="54" y1="436.41" x2="54" y2="400.41" fill="none" stroke="#000" stroke-width="0.3"/>
+    <line x1="479.2" x2="479.2" y2="36" fill="none" stroke="#000" stroke-width="0.3"/>
+    <line x1="533.2" y1="54" x2="497.2" y2="54" fill="none" stroke="#000" stroke-width="0.3"/>
+    <line x1="533.2" y1="382.41" x2="497.2" y2="382.41" fill="none" stroke="#000" stroke-width="0.3"/>
+    <line x1="479.2" y1="436.41" x2="479.2" y2="400.41" fill="none" stroke="#000" stroke-width="0.3"/>
+  </g>
+  <g>
+    <circle cx="175.61" cy="93.84" r="7.27" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.92" stroke-dasharray="2.85 2.85"/>
+    <circle cx="175.61" cy="109.3" r="3.63" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.92" stroke-dasharray="1.42 1.42"/>
+    <g>
+      <circle cx="191.72" cy="103.28" r="5.98" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.51" stroke-dasharray="2.35 2.35"/>
+      <image width="1000" height="999" transform="translate(171.71 144.62) scale(0.19)" xlink:href="../earth.png"/>
+    </g>
+    <g>
+      <circle cx="420.29" cy="251.73" r="7.27" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.92" stroke-dasharray="2.85 2.85"/>
+      <circle cx="420.29" cy="267.19" r="3.63" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.92" stroke-dasharray="1.42 1.42"/>
+      <circle cx="436.4" cy="261.18" r="5.98" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.51" stroke-dasharray="2.35 2.35"/>
+    </g>
+    <circle cx="266.6" cy="240.37" r="118.26" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.84" stroke-dasharray="5.55 5.55"/>
+    <circle cx="266.6" cy="240.37" r="98.25" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.53" stroke-dasharray="4.61 4.61"/>
+    <circle cx="91.98" cy="253.55" r="7.27" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.92" stroke-dasharray="2.85 2.85"/>
+    <circle cx="91.98" cy="269.01" r="3.63" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.92" stroke-dasharray="1.42 1.42"/>
+    <circle cx="108.09" cy="263" r="5.98" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.51" stroke-dasharray="2.35 2.35"/>
+    <circle cx="350.11" cy="92.38" r="7.27" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.92" stroke-dasharray="2.85 2.85"/>
+    <circle cx="350.11" cy="107.84" r="3.63" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.92" stroke-dasharray="1.42 1.42"/>
+    <circle cx="366.22" cy="101.83" r="5.98" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.51" stroke-dasharray="2.35 2.35"/>
+    <g clip-path="url(#a)">
+      <image width="500" height="500" transform="translate(223.06 192.72) scale(0.17)" xlink:href="social41.png"/>
+    </g>
+  </g>
+  <g clip-path="url(#b)">
+    <image width="1880" height="1253" transform="translate(356.04 250.52) scale(0.07)" xlink:href="social42.png"/>
+  </g>
+  <g clip-path="url(#c)">
+    <image width="1880" height="1253" transform="translate(369.23 142.51) scale(0.07)" xlink:href="social43.png"/>
+  </g>
+  <g clip-path="url(#d)">
+    <image width="1880" height="1253" transform="translate(57.47 247.38) scale(0.07)" xlink:href="social44.png"/>
+  </g>
+  <g clip-path="url(#e)">
+    <image width="1880" height="1253" transform="translate(37.5 141.08) scale(0.07)" xlink:href="social45.png"/>
+  </g>
+  <g clip-path="url(#f)">
+    <image width="1880" height="1253" transform="translate(175.9 33.36) scale(0.07)" xlink:href="social46.png"/>
+  </g>
+  <g clip-path="url(#g)">
+    <image width="1880" height="1253" transform="translate(353.64 96.73) scale(0.05)" xlink:href="social47.png"/>
+  </g>
+  <g clip-path="url(#h)">
+    <image width="1880" height="1253" transform="translate(261.4 41.28) scale(0.06)" xlink:href="social48.png"/>
+  </g>
+  <g clip-path="url(#i)">
+    <image width="1880" height="1253" transform="translate(99.55 99.7) scale(0.05)" xlink:href="social49.png"/>
+  </g>
+  <g clip-path="url(#j)">
+    <image width="1880" height="1253" transform="translate(282.04 124.52) scale(0.07)" xlink:href="social410.png"/>
+  </g>
+  <g clip-path="url(#k)">
+    <image width="1880" height="1253" transform="translate(109.12 205.57) scale(0.05)" xlink:href="social411.png"/>
+  </g>
+  <g clip-path="url(#l)">
+    <image width="1880" height="1253" transform="translate(132.99 147.58) scale(0.06)" xlink:href="social412.png"/>
+  </g>
+</svg>

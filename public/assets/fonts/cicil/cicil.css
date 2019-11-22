@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'ciclefina_italic';
+    src: url('cicle_fina_italic-webfont.woff2') format('woff2'),
+         url('cicle_fina_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ciclefina';
+    src: url('cicle_fina-webfont.woff2') format('woff2'),
+         url('cicle_fina-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ciclesemi_italic';
+    src: url('cicle_semi_italic-webfont.woff2') format('woff2'),
+         url('cicle_semi_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ciclesemi';
+    src: url('cicle_semi-webfont.woff2') format('woff2'),
+         url('cicle_semi-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ciclesemi';
+    src: url('cicle_semi-webfont.woff2') format('woff2'),
+         url('cicle_semi-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
